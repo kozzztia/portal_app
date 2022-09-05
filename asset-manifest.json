@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portal_app/static/css/main.da546dce.css",
+    "main.js": "/portal_app/static/js/main.d1cc8eb1.js",
+    "index.html": "/portal_app/index.html",
+    "main.da546dce.css.map": "/portal_app/static/css/main.da546dce.css.map",
+    "main.d1cc8eb1.js.map": "/portal_app/static/js/main.d1cc8eb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da546dce.css",
+    "static/js/main.d1cc8eb1.js"
+  ]
+}
